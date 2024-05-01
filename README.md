@@ -1,4 +1,4 @@
-# Dropbox AI Chat
+# KTU AI Specialist
 
 Quickly summarize the content and get the information you need in **real-time** from private large unstructured documents in your [Dropbox](https://dropbox.com/). The same tool can be used with [OneDrive](https://onedrive.live.com/login/).
 
@@ -53,13 +53,13 @@ Then, follow the easy steps to install and get started using the sample app.
 This is done with the `git clone` command followed by the URL of the repository:
 
 ```bash
-git clone https://github.com/pathway-labs/dropbox-ai-chat
+git clone https://github.com/Ahamedshakir02/Ktu-Specialist.git
 ```
 
 Next,  navigate to the project folder:
 
 ```bash
-cd dropbox-ai-chat
+cd Ktu-Specialist
 ```
 
 #### Step 2: Set environment variables
